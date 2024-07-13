@@ -1,2 +1,5 @@
 node_modules
 .env
+
+# Ignore all files in uploads/profile_pictures/
+uploads/profile_pictures/*
